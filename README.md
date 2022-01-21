@@ -1,6 +1,10 @@
 # indic-voice
 Largest Open Source Speech Corpora for Indic Languages
 
+# Dataset
+Proudly Hosted on 🤗 Datasets : [Link](https://huggingface.co/datasets/Harveenchadha/indic-voice)
+
+# Statistics
 
 | Language | Source           | Type  | Duration (in hrs) | Files |
 |----------|------------------|-------|----------|-------|
